@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://106.38.32.80:15001/creditapp/image_57.png</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://106.38.32.80:15001/creditapp/image_512.png</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
